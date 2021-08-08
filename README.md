@@ -1,3 +1,9 @@
+![seDirector logo](https://sedirector.net/images/logo.png)
+
+# seDirector Translations
+
+[seDirector](https://sedirector.net) is a game server management application.
+
 # Roadmap for seDirector
 
 ### Phase 1 - Planned Features
