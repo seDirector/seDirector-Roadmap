@@ -1,10 +1,8 @@
 ![seDirector logo](https://sedirector.net/images/logo.png)
 
-# seDirector Translations
+# Roadmap for seDirector
 
 [seDirector](https://sedirector.net) is a game server management application.
-
-# Roadmap for seDirector
 
 ### Phase 1 - Planned Features
 - **Server manager component**: able to run on **Windows**, **Linux**, and **MacOS**
