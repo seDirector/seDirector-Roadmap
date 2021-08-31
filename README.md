@@ -7,11 +7,12 @@
 ### Phase 1 - Planned Features
 - **Server manager component**: able to run on **Windows**, **Linux**, and **MacOS**
 - **Control panel / GUI**: support for **Web**, **Android**, and **iOS**
-- **Notifications**:  sent via **Web**, **Android**, and **iOS** notifications (Discord not required)
+- Support for Team Fortress 2 Classic
+- Support for Minecraft
 - Support for more games
 - Changes while server is running
 - Improved server crash detection
-- Multithreaded
+- Multithreaded, asynchronous
 - Run command before/after server start
 - Run command after crash
 - Game server hosting company support
