@@ -15,7 +15,6 @@
 - Multithreaded, asynchronous
 - Run command before/after server start
 - Run command after crash
-- Game server hosting company support
 - Improved task management
 - Improved add on managements
 - Chrome & Firefox extension:
@@ -23,6 +22,7 @@
 ![Chrome & Firefox extension](https://i.imgur.com/87L7evD.png)
 
 ### Phase 2 - Planned Features
+- Game server hosting company support
 - Move Game Servers between Servers
 - Multi Location, Multi User
 - Multi User + Roles
